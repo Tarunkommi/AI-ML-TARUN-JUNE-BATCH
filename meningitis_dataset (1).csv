@@ -1,0 +1,196 @@
+id,surname,firstname,middlename,gender,gender_male,gender_female,state,settlement,rural_settlement,urban_settlement,report_date,report_year,age,age_str,date_of_birth,child_group,adult_group,disease,cholera,diarrhoea,measles,viral_haemmorrhaphic_fever,meningitis,ebola,marburg_virus,yellow_fever,rubella_mars,malaria,serotype,NmA,NmC,NmW,health_status,alive,dead,report_outcome,unconfirmed,confirmed,null_serotype
+1,Solade,Grace,Solape,Female,0,1,Rivers,Rural,1,0,2018-05-15,2018,32,32 years,1986-01-17,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,null serotype,0,0,0,alive,1,0,confirmed,0,1,1
+2,Eneche,Kure,Balogun,Male,1,0,Ebonyi,Rural,1,0,2017-02-28,2017,32,32 years,1985-09-01,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+3,Sanusi,Adaugo,Katerine,Female,0,1,Ogun,Urban,0,1,2012-03-02,2012,24,24 years,1988-05-01,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+4,Sowore,Mooslemat,Ifedayo,Female,0,1,Ondo,Rural,1,0,2010-05-21,2010,63,63 years,1947-05-24,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+5,Abdusalam,Yusuf,Okafor,Male,1,0,Oyo,Urban,0,1,2017-08-28,2017,9,9 years,2008-01-07,1,0,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+6,Yakubu,Janet,Chioma,Female,0,1,Kaduna,Rural,1,0,2012-06-27,2012,44,44 years,1968-06-06,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+7,Razak,Adaugo,Adaobi,Female,0,1,Taraba,Rural,1,0,2010-04-01,2010,61,61 years,1949-07-19,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+8,Annakyi,Danmbazzu,Osagie,Male,1,0,Katsina,Rural,1,0,2015-10-04,2015,2,2 months,2014-12-18,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+9,Adejoro,Iyin,Osatimehin,Male,1,0,Katsina,Rural,1,0,2011-11-14,2011,54,54 years,1957-08-05,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+10,Okorie,Adaugo,Chika,Female,0,1,Osun,Urban,0,1,2014-06-17,2014,15,15 years,1999-10-19,1,0,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+11,Muhammadu,Adijah,Cathrine,Female,0,1,Niger,Urban,0,1,2015-05-12,2015,17,17 years,1998-06-07,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+12,Okerewke,Kure,Osahon,Male,1,0,Cross River,Rural,1,0,2012-09-28,2012,50,50 years,1962-02-04,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+13,Folawiyo,Christopher,Atiku,Male,1,0,Adamawa,Urban,0,1,2012-03-01,2012,4,4 years,2008-09-10,1,0,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+14,Soyinka,Kure,Akindele,Male,1,0,Nasarawa,Rural,1,0,2016-11-19,2016,3,3 years,2013-05-12,1,0,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+15,Ayokumbi,Yetunde,Atinuke,Female,0,1,Ebonyi,Urban,0,1,2011-12-16,2011,59,59 years,1952-04-07,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Dead,0,1,Not Confirmed,1,0,0
+16,Jesufemi,Fausiat,Tofunmi,Female,0,1,Imo,Urban,0,1,2012-08-23,2012,2,2 months,2015-06-21,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group W (NmW),0,0,1,Alive,1,0,Not Confirmed,1,0,0
+17,Oni,Kagara,Okoro,Male,1,0,Ebonyi,Urban,0,1,2015-09-07,2015,49,49 years,1966-03-09,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group W (NmW),0,0,1,Dead,0,1,Not Confirmed,1,0,0
+18,Abiona,Benedict,Osahon,Male,1,0,Abia,Urban,0,1,2011-06-12,2011,48,48 years,1963-09-21,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Dead,0,1,Not Confirmed,1,0,0
+19,Udoh,Benedicta,Funmi,Female,0,1,Niger,Urban,0,1,2010-03-09,2010,30,30 years,1980-05-15,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+20,Buhari,Janet,Orieskwe,Female,0,1,Adamawa,Rural,1,0,2017-09-23,2017,39,39 years,1978-07-21,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+21,Olalekan,Carol,Sola,Female,0,1,Yobe,Rural,1,0,2010-05-14,2010,50,50 years,1960-05-25,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+22,Eleojo,Adaugo,Aderemi,Female,0,1,Rivers,Urban,0,1,2011-02-13,2011,14,14 years,1997-06-02,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+23,Jesudara,Grace,Sade,Female,0,1,Delta,Rural,1,0,2016-08-03,2016,41,41 years,1975-05-27,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+24,Bayeero,Areoye,Adesina,Male,1,0,Ogun,Rural,1,0,0000-00-00,2009,59,59 years,1950-01-15,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+25,Chatta,Deborah,Odekunmi,Female,0,1,Jigawa,Rural,1,0,2018-12-14,2018,45,45 years,1973-10-05,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+26,Chukwudi,Sola,Akinyemi,Male,1,0,Borno,Rural,1,0,2018-03-23,2018,5,5 years,2013-12-21,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+27,Kande,Adaugo,Peace,Female,0,1,Adamawa,Urban,0,1,2018-11-17,2018,72,72 years,1946-07-02,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+28,Egar,Jane,Sade,Female,0,1,Kwara,Urban,0,1,2016-08-06,2016,7,7 years,2009-08-20,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+29,Salaudeen,Sola,Akinremi,Male,1,0,Cross River,Urban,0,1,2015-02-19,2015,16,16 years,1999-07-31,1,0,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+30,Isa,Caroline,Solabomi,Female,0,1,Yobe,Urban,0,1,2014-11-11,2014,7,7 months,2018-04-19,1,0,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+31,Buhari,Paul,Oni,Male,1,0,Bayelsa,Rural,1,0,2009-02-02,2009,3,3 years,2006-07-27,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Dead,0,1,Not Confirmed,1,0,0
+32,Chimenu,Omowale,Okonkwo,Male,1,0,Federal Capital Territory,Urban,0,1,2017-04-30,2017,8,8 years,2009-07-30,1,0,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+33,Igbonubi,Paulina,Rofeeqat,Female,0,1,Kogi,Urban,0,1,2017-04-23,2017,2,2 years,2015-07-05,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+34,Kwenzie,Joseph,Adeyemi,Male,1,0,Gombe,Rural,1,0,2016-10-05,2016,25,25 years,1991-02-21,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+35,Isa,Kure,Okafor,Male,1,0,Ebonyi,Rural,1,0,2011-03-08,2011,71,71 years,1940-06-27,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+36,Akala,Christianah,Nifemi,Female,0,1,Katsina,Urban,0,1,2014-01-06,2014,27,27 years,1987-12-26,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+38,Ifiong,Alexandria,Hassanath,Female,0,1,Taraba,Urban,0,1,2017-10-19,2017,40,40 years,1977-06-06,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+39,Aterigbade,Debby,Chika,Female,0,1,Kaduna,Rural,1,0,2010-04-02,2010,66,66 years,1944-01-02,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+40,Ahuta,Mooslem,Adeyemi,Male,1,0,Jigawa,Urban,0,1,2017-07-05,2017,8,8 years,2009-03-27,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+41,Chinwe,Paul,Faruq,Male,1,0,Federal Capital Territory,Urban,0,1,2010-09-13,2010,62,62 years,1948-08-15,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+42,Quayum,Alexandria,Beatrice,Female,0,1,Oyo,Urban,0,1,2011-01-22,2011,17,17 years,1994-05-17,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+43,Quayum,Josephinah,Mariama,Female,0,1,Sokoto,Urban,0,1,2016-05-01,2016,39,39 years,1977-09-06,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+44,Adejare,Janet,Folasade,Female,0,1,Anambra,Rural,1,0,2011-06-27,2011,16,16 years,1995-01-10,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Alive,1,0,Not Confirmed,1,0,0
+45,Chima,Christianah,Adeire,Female,0,1,Osun,Rural,1,0,2012-02-02,2012,3,3 months,2016-05-06,1,0,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+46,Chukudi,Josephinah,Beatrice,Female,0,1,Kebbi,Rural,1,0,2013-08-30,2013,4,4 months,2013-12-10,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+47,Ladoke,Dambatta,Osahon,Male,1,0,Imo,Rural,1,0,2014-12-29,2014,22,22 years,1992-11-28,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+48,Adifala,Simbi,Atinuke,Female,0,1,Ondo,Rural,1,0,2014-12-30,2014,34,34 years,1980-07-11,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+49,Nnanyi,Josephine,Adetorera,Female,0,1,Osun,Rural,1,0,2014-06-22,2014,35,35 years,1979-02-15,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+50,Afegbua,Joseph,Babangida,Male,1,0,Katsina,Urban,0,1,2018-04-20,2018,66,66 years,1952-07-26,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+51,Uwaheren,Iyin,Okoye,Male,1,0,Kebbi,Rural,1,0,2018-02-20,2018,49,49 years,1969-09-13,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+52,Afeez,Danmbazzu,Adebanjo,Male,1,0,Kebbi,Rural,1,0,2016-11-17,2016,22,22 years,0000-00-00,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+53,Azubuike,Danjuma,Shehu,Male,1,0,Osun,Rural,1,0,2012-12-30,2012,18,18 years,1994-09-24,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+54,Akinyemi,Adaobi,Tinuola,Female,0,1,Kwara,Urban,0,1,2016-06-22,2016,51,51 years,1965-02-14,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+55,Bakare,Mooslem,Tinubu,Male,1,0,Lagos,Urban,0,1,2009-09-12,2009,17,17 years,1992-03-23,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+56,Ileri,Alexandria,Taiwo,Female,0,1,Jigawa,Urban,0,1,2017-06-29,2017,5,5 years,2012-11-24,1,0,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+57,Aderemi,Josephine,Folasade,Female,0,1,Kebbi,Rural,1,0,2016-07-17,2016,69,69 years,1947-12-27,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+58,Micheal,Yusuf,Adeoye,Male,1,0,Borno,Urban,0,1,2017-02-24,2017,29,29 years,1988-02-18,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+59,Babaji,Jude,Obasanjo,Male,1,0,Taraba,Urban,0,1,2009-12-29,2009,26,26 years,1983-08-31,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+60,Gombi,John,Shehu,Male,1,0,Lagos,Urban,0,1,2011-12-21,2011,27,27 years,1984-03-03,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+61,Azikwe,Adaugo,Chika,Female,0,1,Ondo,Urban,0,1,2016-11-11,2016,43,43 years,1973-04-28,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+62,Oyedepo,Ismail,Ressurection,Male,1,0,Federal Capital Territory,Urban,0,1,2010-01-06,2010,2,2 years,2008-12-10,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group W (NmW),0,0,1,Alive,1,0,Confirmed,1,0,0
+63,Emeka,Debby,Victory,Female,0,1,Plateau,Urban,0,1,2016-04-22,2016,68,68 years,1948-03-11,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+65,Abdulkareem,Sola,Obasanjo,Male,1,0,Jigawa,Rural,1,0,2012-10-10,2012,61,61 years,1951-07-06,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+66,Osanobua,Carolina,Tofunmi,Female,0,1,Sokoto,Urban,0,1,2015-07-01,2015,62,62 years,1953-09-14,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+67,Yahaya,Israel,Ishola,Male,1,0,Zamfara,Urban,0,1,2013-01-05,2013,51,51 years,1962-07-22,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+68,Soyakyi,Simbi,Akinremi,Female,0,1,Sokoto,Rural,1,0,2013-09-09,2013,17,17 years,1996-03-14,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+70,Ifeanyichukwu,Hallimat,Mariama,Female,0,1,Borno,Rural,1,0,2014-01-18,2014,54,54 years,1960-03-05,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+71,Fidelis,Arole,Akinyemi,Male,1,0,Imo,Urban,0,1,2018-03-02,2018,27,27 years,1991-11-18,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+72,Akpofure,Kausarat,Chizi,Female,0,1,Osun,Rural,1,0,2016-05-15,2016,49,49 years,1967-07-20,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+73,Chizoba,Danmbazzu,Aderemi,Male,1,0,Edo,Rural,1,0,2010-10-17,2010,62,62 years,1948-02-06,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+74,Tanko,Joseph,Chima,Male,1,0,Kogi,Urban,0,1,2016-03-19,2016,72,72 years,1944-02-03,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+75,Shettima,Florence,Patricia,Female,0,1,Nasarawa,Rural,1,0,2012-12-23,2012,4,4 years,2008-03-14,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+76,Babajide,Mariam,Hope,Female,0,1,Ekiti,Urban,0,1,2010-04-11,2010,51,51 years,1959-07-20,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+77,Jimoh,Hallimat,Success,Female,0,1,Rivers,Rural,1,0,2010-02-05,2010,45,45 years,1965-12-13,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+78,Habeeb,Arole,Akinyemi,Male,1,0,Plateau,Rural,1,0,2017-01-09,2017,22,22 years,1995-09-28,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+79,Evans,Fausiat,Ifagbemi,Female,0,1,Kaduna,Rural,1,0,2014-10-16,2014,24,24 years,1990-04-30,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+80,Bamidele,Jude,Akinjide,Male,1,0,Kwara,Urban,0,1,2013-09-30,2013,4,4 years,2009-06-01,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+81,Mubaraq,Sunday,Remi,Male,1,0,Oyo,Urban,0,1,2015-05-26,2015,75,75 years,1940-06-10,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+82,Chidebere,Mariam,Alimat,Female,0,1,Sokoto,Rural,1,0,2017-12-04,2017,55,55 years,1962-12-31,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+83,Desmond,Israel,Aderemi,Male,1,0,Ebonyi,Urban,0,1,2017-11-11,2017,59,59 years,1958-05-21,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+84,Adejoro,Kausarat,Adeshayo,Female,0,1,Abia,Urban,0,1,2011-04-15,2011,6,6 years,2005-11-22,1,0,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+85,Sambo,Florence,Malomo,Female,0,1,Osun,Urban,0,1,2015-05-21,2015,46,46 years,1969-01-23,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+86,Isiaka,Adaobi,Victoria,Female,0,1,Jigawa,Urban,0,1,2010-12-26,2010,3,3 months,2017-09-26,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+87,Israel,Yetunde,Chizoba,Female,0,1,Taraba,Urban,0,1,2012-11-04,2012,27,27 years,1985-06-06,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+88,Asibi,Alexandria,Cathrine,Female,0,1,Jigawa,Rural,1,0,2011-11-04,2011,24,24 years,1987-03-16,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+89,Etim,Simbi,Chika,Female,0,1,Ebonyi,Rural,1,0,2016-08-20,2016,15,15 years,2001-10-25,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+90,Kachukwu,Caroline,Katerine,Female,0,1,Bayelsa,Rural,1,0,2014-05-24,2014,19,19 years,1995-09-03,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+91,Lamido,Omowale,Osagie,Male,1,0,Nasarawa,Rural,1,0,2012-12-06,2012,10,10 months,2014-02-02,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+92,Dalhalu,Sunday,Faruq,Male,1,0,Enugu,Rural,1,0,2010-01-19,2010,43,43 years,1967-08-01,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+93,Yohanna,Sola,Ojukwu,Male,1,0,Abia,Rural,1,0,2016-01-25,2016,13,13 years,2003-11-27,1,0,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+94,Kurtumbi,Josephine,Ifagbemi,Female,0,1,Gombe,Urban,0,1,2009-11-05,2009,30,30 years,1979-03-30,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Dead,0,1,Not Confirmed,1,0,0
+95,Salam,Kagara,Adeyemi,Male,1,0,Nasarawa,Rural,1,0,2010-01-31,2010,18,18 years,1992-04-03,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+96,Prince,Carol,Jennifer,Female,0,1,Jigawa,Rural,1,0,2016-08-09,2016,33,33 years,1983-09-07,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+97,Akpofure,Josephine,Okorie,Female,0,1,Abia,Urban,0,1,2012-01-14,2012,24,24 years,1988-01-23,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+98,Arigbabu,Benedict,Aderemi,Male,1,0,Ogun,Urban,0,1,2011-05-09,2011,66,66 years,1945-06-20,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+99,Oronto,Alimat,Favour,Female,0,1,Rivers,Urban,0,1,2014-04-27,2014,21,21 years,1993-02-14,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+100,Bala,Joseph,Bassey,Male,1,0,Zamfara,Urban,0,1,2016-04-07,2016,69,69 years,1947-01-24,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+101,Akenzua,Christopher,Adeyemi,Male,1,0,Gombe,Rural,1,0,2010-01-02,2010,68,68 years,1942-03-17,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+102,Akoshile,Florence,Grace,Female,0,1,Kogi,Urban,0,1,2012-12-18,2012,47,47 years,1965-12-04,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+103,Muhammed,Alimat,Adaobi,Female,0,1,Gombe,Urban,0,1,2017-02-02,2017,49,49 years,1968-06-05,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+104,Sanusi,Kagara,Attah,Male,1,0,Plateau,Rural,1,0,2012-08-23,2012,27,27 years,1985-05-12,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+105,Obaseki,Jude,Tanko,Male,1,0,Imo,Urban,0,1,2013-05-27,2013,39,39 years,1974-04-25,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+106,Timothy,Mariam,Chika,Female,0,1,Nasarawa,Urban,0,1,2015-02-16,2015,8,8 months,2019-10-30,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+107,Gbadeyan,Christianah,Chiamaka,Female,0,1,Federal Capital Territory,Rural,1,0,2011-04-15,2011,59,59 years,1952-03-07,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+108,Kure,Deborah,Victoria,Female,0,1,Kwara,Urban,0,1,2016-02-22,2016,7,7 years,2009-09-01,1,0,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+109,Musa,Islamiat,Emmanuella,Female,0,1,Delta,Rural,1,0,2012-01-07,2012,18,18 years,1994-03-27,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+110,Chukwu,Benedicta,Funmi,Female,0,1,Adamawa,Urban,0,1,2015-10-05,2015,39,39 years,1976-11-01,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+111,Zaria,Mariam,Sola,Female,0,1,Ebonyi,Urban,0,1,2012-05-06,2012,35,35 years,1977-10-08,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+112,Chima,Mooslem,Oloyede,Male,1,0,Bauchi,Urban,0,1,2017-03-07,2017,50,50 years,1967-01-20,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+113,Yakubu,Adaugo,Helen,Female,0,1,Adamawa,Urban,0,1,2015-03-11,2015,5,5 years,2010-03-08,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+114,Ishaya,Sola,Taiwo,Male,1,0,Sokoto,Urban,0,1,2012-07-04,2012,27,27 years,1985-06-03,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+115,Abiona,Mariam,Nifemi,Female,0,1,Jigawa,Urban,0,1,2016-03-10,2016,6,6 years,2010-02-25,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+116,Azikwe,Jane,Chizoba,Female,0,1,Katsina,Urban,0,1,2013-01-11,2013,65,65 years,1948-05-26,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+117,Bashit,Iyin,Akenzua,Male,1,0,Kano,Urban,0,1,2018-10-20,2018,12,12 years,2006-12-04,1,0,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+118,Maguzam,Adaugo,Ayo,Female,0,1,Ebonyi,Rural,1,0,2014-05-12,2014,48,48 years,1966-04-04,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+119,Oni,Areoye,Attah,Male,1,0,Oyo,Urban,0,1,2018-07-16,2018,21,21 years,0000-00-00,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+120,Sunday,Iyin,Odekumbi,Male,1,0,Rivers,Urban,0,1,2013-09-18,2013,29,29 years,1984-12-23,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+121,Omatsope,Kausarat,Fatima,Female,0,1,Sokoto,Rural,1,0,2013-12-25,2013,50,50 years,1963-10-25,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+122,Chike,Israel,Oni,Male,1,0,Ogun,Rural,1,0,2013-04-19,2013,24,24 years,1989-08-16,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Dead,0,1,Confirmed,1,0,0
+123,Bayeero,Judah,Clinton,Male,1,0,Nasarawa,Rural,1,0,2013-07-12,2013,5,5 years,2008-12-22,1,0,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+124,Ogbeche,Josephinah,Omobola,Female,0,1,Ogun,Urban,0,1,2017-08-07,2017,54,54 years,1963-07-09,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+125,Effiong,Israel,Damilola,Male,1,0,Kaduna,Urban,0,1,2017-12-29,2017,19,19 years,1998-01-22,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Alive,1,0,Confirmed,1,0,0
+126,Danmbatta,Islamiat,Abidemi,Female,0,1,Benue,Rural,1,0,2009-12-14,2009,7,7 years,2002-03-17,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Alive,1,0,Not Confirmed,1,0,0
+127,Ikot,Adijah,Idowu,Female,0,1,Adamawa,Rural,1,0,2010-03-29,2010,3,3 months,2011-06-13,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+128,Okpobo,Simbi,Funmi,Female,0,1,Kogi,Urban,0,1,2014-09-02,2014,14,14 years,2000-09-21,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+129,Etim,Benedict,Ressurection,Male,1,0,Abia,Rural,1,0,2012-04-14,2012,8,8 years,2004-05-23,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+130,Job,Josephinah,Beatrice,Female,0,1,Taraba,Urban,0,1,2018-07-18,2018,53,53 years,1965-08-24,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+131,Eleojo,Mooslem,Effiong,Male,1,0,Kaduna,Rural,1,0,2017-05-08,2017,15,15 years,2002-09-01,1,0,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+132,Yusuf,Alexander,Ayo,Male,1,0,Ondo,Urban,0,1,2017-02-26,2017,29,29 years,1988-01-07,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+133,Maira,Danmbazzu,Okafor,Male,1,0,Borno,Urban,0,1,2017-07-19,2017,77,77 years,1940-06-14,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+134,Ikot,Josephinah,Adaobi,Female,0,1,Kano,Urban,0,1,2016-06-15,2016,61,61 years,1955-01-17,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group W (NmW),0,0,1,Dead,0,1,Not Confirmed,1,0,0
+135,Okunola,Danmbazzu,Ojukwu,Male,1,0,Anambra,Rural,1,0,2016-12-21,2016,31,31 years,1985-02-13,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+136,Odewingie,Adaugo,Emmanuella,Female,0,1,Imo,Urban,0,1,2011-05-28,2011,5,5 years,2006-10-08,1,0,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+137,Adetayo,Mooslemat,Ayo,Female,0,1,Adamawa,Rural,1,0,2010-10-11,2010,20,20 years,1990-04-30,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+138,Osinbajo,Kausarat,Tofunmi,Female,0,1,Oyo,Rural,1,0,2014-07-18,2014,20,20 years,1994-01-26,0,1,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group A (NmA),1,0,0,Dead,0,1,Confirmed,1,0,0
+139,Sanusi,Adaugo,Nifemi,Female,0,1,Ondo,Rural,1,0,2013-07-20,2013,37,37 years,1976-12-22,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+140,Eneche,Alexander,Folawiyo,Male,1,0,Bauchi,Rural,1,0,2011-12-28,2011,27,27 years,1984-08-25,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+141,Yusuf,Paul,Azikwe,Male,1,0,Adamawa,Urban,0,1,2014-10-18,2014,7,7 months,2017-03-10,1,0,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+143,Olawoore,Omowale,Ifedapo,Male,1,0,Yobe,Urban,0,1,2013-08-17,2013,8,8 years,2005-10-01,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+144,Kachukwu,Jude,Osahon,Male,1,0,Adamawa,Urban,0,1,2017-07-27,2017,64,64 years,1953-08-31,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+145,Gombi,John,Ifafunke,Male,1,0,Katsina,Rural,1,0,2015-10-24,2015,46,46 years,0000-00-00,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+146,Adeyemi,Ismail,Okoye,Male,1,0,Niger,Urban,0,1,2011-03-21,2011,42,42 years,1969-03-01,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+147,David,Alexander,Kehinde,Male,1,0,Niger,Rural,1,0,2017-05-13,2017,39,39 years,1978-01-25,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+148,Dunsin,Yusuf,Okoro,Male,1,0,Enugu,Urban,0,1,2018-09-08,2018,11,11 years,2007-03-16,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+149,Bamidele,Carolina,Mercy,Female,0,1,Rivers,Rural,1,0,2018-03-07,2018,26,26 years,1992-12-12,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+150,Orji,Paulina,Aderemi,Female,0,1,Ekiti,Rural,1,0,2011-12-30,2011,59,59 years,1952-10-10,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+151,Okunlola,Benedict,Hope,Male,1,0,Sokoto,Urban,0,1,2015-04-06,2015,3,3 months,2018-01-27,1,0,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+152,Ikene,Kutte,Tofunmi,Male,1,0,Kano,Rural,1,0,2014-05-03,2014,15,15 years,1999-12-01,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group C (NmC),0,1,0,Alive,1,0,Not Confirmed,1,0,0
+153,Ekeremadu,Josephinah,Jennifer,Female,0,1,Taraba,Rural,1,0,2009-01-03,2009,47,47 years,1962-01-22,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+154,Olarewaju,Jude,Gbadamosi,Male,1,0,Ondo,Urban,0,1,2017-07-27,2017,4,4 months,2017-11-23,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+155,Austin,Sola,Bankole,Male,1,0,Katsina,Rural,1,0,2013-08-20,2013,9,9 years,2004-07-18,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+156,Ekpeyong,Hallimat,Hassanath,Female,0,1,Katsina,Rural,1,0,2016-05-05,2016,49,49 years,1967-05-24,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+157,Moojed,Kutte,Bassey,Male,1,0,Kano,Urban,0,1,2012-07-03,2012,54,54 years,1958-02-24,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+158,Ridwan,Josephinah,Subomi,Female,0,1,Ekiti,Urban,0,1,2014-11-13,2014,63,63 years,1951-09-05,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+159,Mojeed,Mariam,Damilola,Female,0,1,Cross River,Urban,0,1,2015-02-18,2015,23,23 years,1992-04-30,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+160,Faleye,Zainab,Akinremi,Female,0,1,Yobe,Rural,1,0,2018-10-02,2018,42,42 years,1976-07-04,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+161,Adesina,Yetunde,Mercy,Female,0,1,Rivers,Rural,1,0,2009-08-12,2009,42,42 years,1967-08-03,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+162,Balewa,Arole,Folaranmi,Male,1,0,Kaduna,Urban,0,1,2018-06-15,2018,18,18 years,2000-11-25,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+163,Abimbola,Adijah,Ayo,Female,0,1,Katsina,Urban,0,1,2014-02-11,2014,60,60 years,1954-09-05,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+164,Okoye,Grace,Fatima,Female,0,1,Gombe,Rural,1,0,2018-07-12,2018,43,43 years,1975-11-01,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+165,Judah,Jane,Zainab,Female,0,1,Ogun,Rural,1,0,2013-03-04,2013,20,20 years,1993-03-23,0,1,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+166,Omatsope,Deborah,Nafisat,Female,0,1,Benue,Urban,0,1,2016-02-03,2016,42,42 years,1974-10-08,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+167,Yakub,Debby,Nifemi,Female,0,1,Plateau,Urban,0,1,2009-05-15,2009,3,3 months,2009-08-09,1,0,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+169,Kelvin,Benedict,Bankole,Male,1,0,Ogun,Urban,0,1,2018-12-10,2018,11,11 years,2007-03-19,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+170,El-Rufai,Christianah,Alimat,Female,0,1,Zamfara,Urban,0,1,2017-09-06,2017,48,48 years,1969-02-04,0,1,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+171,Gbadeyan,Alexander,Tanko,Male,1,0,Kogi,Urban,0,1,2009-05-05,2009,21,21 years,1988-11-03,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+172,Ohi,Arole,Atiku,Male,1,0,Yobe,Urban,0,1,2016-12-01,2016,15,15 years,2001-02-13,1,0,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+173,Roqeeb,Josephine,Atinuke,Female,0,1,Edo,Rural,1,0,2017-08-05,2017,3,3 years,2014-07-11,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+174,Kehinde,Benedicta,Victory,Female,0,1,Oyo,Rural,1,0,2014-10-28,2014,8,8 years,2006-01-09,1,0,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+175,Fafore,Adaobi,Chioma,Female,0,1,Ondo,Rural,1,0,2018-09-30,2018,57,57 years,1961-01-26,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+176,Bamgbose,Adijah,Chima,Female,0,1,Yobe,Rural,1,0,2011-05-29,2011,69,69 years,1942-08-28,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+177,Jesudare,Florence,Jennifer,Female,0,1,Jigawa,Rural,1,0,2009-09-05,2009,10,10 years,1999-01-07,1,0,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+178,Lamido,Kutte,Roqeeb,Male,1,0,Gombe,Rural,1,0,2014-06-11,2014,65,65 years,1949-10-15,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+179,Bako,Kagara,Hope,Male,1,0,Edo,Rural,1,0,2017-08-06,2017,13,13 years,2004-11-07,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+180,Bamaii,Jude,Etim,Male,1,0,Kwara,Urban,0,1,2015-05-02,2015,44,44 years,1971-01-03,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+181,Yakubu,Josephinah,Rofeeqat,Female,0,1,Yobe,Rural,1,0,2015-08-18,2015,61,61 years,1954-04-03,0,1,Diarrhoea,0,1,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+182,Atere,Paulina,Grace,Female,0,1,Plateau,Urban,0,1,2018-09-28,2018,62,62 years,1956-06-09,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+183,Shettima,Areoye,Akindele,Male,1,0,Ekiti,Rural,1,0,2013-10-03,2013,23,23 years,1990-10-02,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+184,Chidike,Fausiat,Comfort,Female,0,1,Sokoto,Urban,0,1,2009-06-22,2009,5,5 months,0000-00-00,1,0,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+185,Charles,Adijah,Akinremi,Female,0,1,Enugu,Rural,1,0,2009-02-21,2009,10,10 months,2019-12-07,1,0,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+186,Quayum,Benedict,Ife,Male,1,0,Kwara,Rural,1,0,2015-10-01,2015,72,72 years,1943-10-08,0,1,Measles,0,0,1,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+187,Buhari,Kure,Victor,Male,1,0,Oyo,Urban,0,1,2011-07-29,2011,68,68 years,1943-10-18,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+188,Omotoni,Simbi,Victoria,Female,0,1,Ekiti,Rural,1,0,2011-07-04,2011,20,20 years,1991-06-12,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+189,Bamayi,Jane,Simbi,Female,0,1,Borno,Urban,0,1,2017-12-14,2017,48,48 years,1969-05-19,0,1,Ebola,0,0,0,0,0,1,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,1,0,1
+190,Atiku,Christopher,Remi,Male,1,0,Rivers,Urban,0,1,2017-10-22,2017,65,65 years,1952-02-22,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+191,Ayokunle,Debby,Solabomi,Female,0,1,Imo,Urban,0,1,2016-05-16,2016,32,32 years,1984-07-14,0,1,Marburg Virus,0,0,0,0,0,0,1,0,0,0,Null,0,0,1,Alive,1,0,Not Confirmed,1,0,1
+192,Umar,Adijah,Ifatomi,Female,0,1,Ondo,Rural,1,0,2010-12-23,2010,8,8 months,2014-04-28,1,0,Rubella Mars,0,0,0,0,0,0,0,0,1,0,Null,0,0,1,Dead,0,1,Confirmed,1,0,1
+193,Adeyemi,Areoye,Okeke,Male,1,0,Taraba,Urban,0,1,2009-04-12,2009,60,60 years,1949-12-11,0,1,Yellow Fever,0,0,0,0,0,0,0,1,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+194,Nnamdi,Islamiat,Iyabo,Female,0,1,Zamfara,Urban,0,1,2011-06-13,2011,11,11 years,2000-01-09,1,0,Viral Haemmorrhaphic Fever,0,0,0,1,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+195,Kalu,Kutte,Damilola,Male,1,0,Gombe,Rural,1,0,2018-07-04,2018,71,71 years,1947-10-31,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
+196,Harrison,Sunday,Okonkwo,Male,1,0,Abia,Rural,1,0,2013-12-02,2013,37,37 years,1976-05-06,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Not Confirmed,1,0,1
+197,Ifeanyichukwu,Danjuma,Babangida,Male,1,0,Taraba,Rural,1,0,2009-05-25,2009,34,34 years,1975-12-01,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+198,Adebajo,Dambatta,Igbinedion,Male,1,0,Osun,Rural,1,0,2010-09-25,2010,65,65 years,1945-06-06,0,1,Malaria,0,0,0,0,0,0,0,0,0,1,Null,0,0,1,Alive,1,0,Confirmed,0,1,1
+199,Yusuf,Deborah,Cathrine,Female,0,1,Ondo,Rural,1,0,2011-11-17,2011,9,9 years,2002-05-12,1,0,Meningitis,0,0,0,0,1,0,0,0,0,0,Neisseria meningitidis group W (NmW),0,0,1,Alive,1,0,Confirmed,1,0,0
+200,Jaiz,Grace,Helena,Female,0,1,Yobe,Urban,0,1,2010-09-18,2010,42,42 years,1968-03-14,0,1,Cholera,1,0,0,0,0,0,0,0,0,0,Null,0,0,1,Dead,0,1,Confirmed,0,1,1
